@@ -6,3 +6,12 @@ Want to immediately operationalize your IoT data? This is a IoT Central quick st
 1. Item 3
    1. Item 3a
    1. Item 3b
+
+   ```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
